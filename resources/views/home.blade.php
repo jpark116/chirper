@@ -12,6 +12,7 @@
                                                                                           sing (or chirp)!</p>
                                                                            <p>This is your brand new Laravel app. Time to make it sing (or chirp)!</p>
                                                                            <p class="mt-2 text-sm text-gray-600">Now this is live on the internet! 🎉</p>
+                                                                           <p> testing new github branch.</p>
                                                             </div>
                                              </div>
                               </div>
